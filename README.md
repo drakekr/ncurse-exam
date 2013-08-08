@@ -10,5 +10,5 @@ Author : Drake
 > * 64MB or more memory
 > * Any Linux(Debian GNU/Linux - Wheezy 7.1)
 * How to make development environment
-"'sudo apt-get install libncurses5-dev'"
+"`sudo apt-get install libncurses5-dev"`
 * Enjoy
